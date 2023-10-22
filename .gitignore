@@ -1,0 +1,23 @@
+
+/.idea/*
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/uiDesigner.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/uiDesigner.xml
+*.class
+*.plt
+Geolife Trajectories 1.3/
+target/classes/Geolife Trajectories 1.3/Data/073/labels.txt
+new Geolife Trajectories 1.3.zip
+neg.e
+neg.p
+pos.p
+tree.e
